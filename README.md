@@ -1,3 +1,4 @@
+[![Build Status](https://dageniusal.visualstudio.com/Space%20Game%20-%20web/_apis/build/status/alex-bello.mslearn-tailspin-spacegame-web?branchName=master)](https://dageniusal.visualstudio.com/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
